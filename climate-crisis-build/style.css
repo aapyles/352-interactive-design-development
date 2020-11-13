@@ -1,0 +1,58 @@
+#headline {
+font-size: 3em;
+font-weight:700;
+font-family: 'Montserrat', sans-serif;
+text-align: center;
+}
+
+#byline {
+  font-size:1em;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+#chapter {
+  font-size: 1.75em;
+  font-weight:700;
+  font-family: 'Montserrat', sans-serif;
+  margin-bottom: 10px;
+}
+
+p {
+  line-height:180%;
+  font-family: Georgia, serif;
+}
+
+.caption {
+  font-size:1em;
+  font-family: 'Montserrat', sans-serif;
+  color: gray;
+  margin: 0 auto;
+  width: 80%;
+  font-weight: 400;
+  padding-top: 2px;
+  padding-bottom: 10px;
+}
+
+.pictures {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+.footer {
+  background-color:black;
+  color:white;
+  text-align:center;
+  font-size:1em;
+  font-family: 'Montserrat', sans-serif;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.headings {
+  text-align:center;
+  padding-bottom: 10px;
+}
